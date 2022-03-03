@@ -1,0 +1,34 @@
+body {
+display: block;
+background-color: #000000;
+}
+
+h1 {
+color: #ffffff;
+font-size: 50px;
+text-align: center;
+}
+
+h3 {
+color: #ffffff;
+font-size: 30px;
+text-align: center;
+}
+
+b {
+color: #ffffff;
+}
+
+strong {
+color: #ffffff;
+}
+
+table , tr , th , td{
+border: 1px solid #ffffff;
+}
+
+#cp {
+color: #ffffff;
+font-size: 15px;
+text-align: center;
+}
